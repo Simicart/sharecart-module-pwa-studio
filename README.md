@@ -2,7 +2,7 @@
 
 This module acts as an add-on for [Mageplaza's Share Cart extension](https://www.mageplaza.com/magento-2-share-cart/) to make it work with Magento PWA Studio.
 
-End result: https://sharecart.pwa-commerce.com
+End result: https://sharecart.pwa-commerce.com/sharecart/R8HlIx8nrkvbAteKaBvoiAoP0u35DYfu
 
 ## Requirements
 
